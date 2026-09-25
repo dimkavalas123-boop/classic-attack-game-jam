@@ -4,7 +4,7 @@ This respo is about my 2 game jam submissions from 4 year ago. Both games where 
 ---
 
 ##  Classical Attack
-*The theme of the game jam was Organized-Chas*
+*The theme of the game jam was Organized-Chaos*
 
 * 🕹️ **Play Here:** [Classical Attack itch.io](https://justjim01.itch.io/classical-attack)
 
